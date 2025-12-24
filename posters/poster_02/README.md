@@ -10,3 +10,4 @@ Hello! This poster is a reference to the game "Escape From Tarkov".
 ## Notes
 - Rendered using Blender's Cycles engine
 - The original .blend file is no longer available (removed it)
+- Resized it to upload it to Github
